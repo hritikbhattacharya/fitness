@@ -34,6 +34,7 @@ const Service = () => {
       toast.success("Data saved successfully");
       navigate("/");
     } catch (error) {
+      console.log(error);
       toast.error("Failed to save data");
     }
   };

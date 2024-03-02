@@ -14,5 +14,21 @@
     "goal": "Build Muscles",
     "fitnessLevel": "Advance",
     "activityLevel": "Super Active"
+  },
+  {
+    "name": "Ram",
+    "height": "156",
+    "weight": "56",
+    "goal": "Make abs",
+    "fitnessLevel": "Intermediate",
+    "activityLevel": "Super Active"
+  },
+  {
+    "name": "Sita",
+    "height": "156",
+    "weight": "58",
+    "goal": "Improve General Fitness ",
+    "fitnessLevel": "Intermediate",
+    "activityLevel": "Super Active"
   }
 ]
